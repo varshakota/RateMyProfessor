@@ -1,0 +1,11 @@
+
+35	Network connections
+20	Listing the Instructors
+20	Instructor detail view(s)
+10	Posting rating & Comments
+10	GUI look
+	-2  detail view "comments" looks like text field, "rate" button location
+	Centered text harder to read
+5	Proper coding style
+
+98/100
